@@ -1,0 +1,18 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "cSpell.words": [
+    "agro",
+    "dateofbirth",
+    "GEMADMIN",
+    "gemexcite",
+    "INCULTIVATION",
+    "NEWREQUEST",
+    "Offtaker",
+    "PREORDER",
+    "subdocument",
+    "virtuals"
+  ]
+}
